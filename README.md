@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm Carlos, a Data Science Fellow with 4+ years of experience in product and service design. Welcome to my GitHub!
+I'm Carlos, a Data Science Fellow with 4+ years of experience in product and service design (Check out my UX design work [Portfolio](http://www.carlosemartinez.com)). Welcome to my GitHub!
 
 ## About Me
 
